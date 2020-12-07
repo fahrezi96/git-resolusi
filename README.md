@@ -1,0 +1,2 @@
+# git-resolusi
+latihan git
