@@ -1,3 +1,4 @@
 GIT RESOLUSI
 - belajar git command
 - belajar kolaborasi
+- cabang baru
